@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+h1{
+  border: 1px solid;
+  width: 250px;
+}
+h1:hover{
+  cursor: pointer;
+  
 }
 
 .App-logo {
